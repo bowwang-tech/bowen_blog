@@ -3,6 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
+# state the base usrl for my own website
 url:                   https://bowwang.dev
 
 # Uncomment and set the "base URL" of your site.
