@@ -17,8 +17,15 @@ permalink: /travel/
 ---
 
 
+
 I would like to add here a map to star where I visit.
 
-
+<sricpt>
+{% leaflet_map %}
+    {% leaflet_marker { "latitude" : 41.881832,
+                       "longitude" : -87.623177,
+                       "popupContent" : "Hello World from Chicago!"} %}
+{% endleaflet_map %}
+</script>
 
 ## Highlights

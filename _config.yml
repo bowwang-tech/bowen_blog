@@ -335,6 +335,7 @@ include:
 # ----------------------------------------------------------------------------------------
 
 plugins:
+  - jekyll-leaflet  
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -347,7 +348,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
-  - jekyll-leaflet              # for embedded maps
+              
 
 
 # SEO Tag
