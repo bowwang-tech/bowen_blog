@@ -1,5 +1,6 @@
 ---
 layout: grid
+
 title: Travel
 slug: travel
 
@@ -12,10 +13,12 @@ no_groups: true
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
-permalink: /travel
+permalink: /travel/
 ---
 
 
 I would like to add here a map to star where I visit.
+
+
 
 ## Highlights
