@@ -18,7 +18,7 @@ permalink: /hiking/
 
 __Under developed...__
 
-{% leaflet_map {"zoom" : 6.5,
+<!-- {% leaflet_map {"zoom" : 6.5,
                 "center" : [47.1020485425032, 8.466677191828039],
                 "providerBasemap": "OpenTopoMap"} %}
     {%- for post in site.categories.hiking -%}
@@ -29,7 +29,7 @@ __Under developed...__
                                 "longitude" : {{post.location.longitude}} } %}
         {% endif %}
     {% endfor %}
-{% endleaflet_map %}
+{% endleaflet_map %} -->
 
 ---
 
