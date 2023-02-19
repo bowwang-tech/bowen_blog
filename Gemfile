@@ -17,7 +17,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
-  gem "jekyll-leaflet"
+  gem "jekyll-leaflet", :path => './'
   gem "jekyll-feed", "~> 0.6"
 end
 
