@@ -19,8 +19,8 @@ I'm Bowen, a graduate student at [ETH Zürich D-ITET](https://ee.ethz.ch/). This
 * [About]{:.heading.flip-title} --- My info on myself.
 {:.related-posts.faded}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+## News
+* _Feb 18 2023_ __- Website v1 Published!__
 
 
 [Travel]: /travel/

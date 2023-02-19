@@ -54,6 +54,8 @@ menu:
   #   url:               /blog/
   - title:             Travel
     url:               /travel/
+  - title:             Hiking
+    url:               /hiking/
   - title:             Projects
     url:               /projects/
   # - title:             Résumé*

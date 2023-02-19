@@ -1,6 +1,15 @@
 ---
 layout: post
 title: Example Travel
+location:
+    geojson: '{
+        "type": "Feature",
+        "properties": {"popupContent": "Banff National Park"},
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-115.928160, 51.495437]
+        }
+    }'
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
@@ -9,6 +18,8 @@ tag: [travel]
 ---
 
 ## Test for Map
+
+
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
