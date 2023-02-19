@@ -17,11 +17,11 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
-  # gem "jekyll-leaflet"
+  gem "jekyll-leaflet"
   gem "jekyll-feed", "~> 0.6"
 end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 # gem "jekyll-leaflet", path: "../"
-gem "jekyll-leaflet"
+# gem "jekyll-leaflet"
