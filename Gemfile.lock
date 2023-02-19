@@ -259,6 +259,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.8)
   jekyll-compose
+  jekyll-feed (~> 0.6)
   jekyll-include-cache
   jekyll-leaflet
   webrick
