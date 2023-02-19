@@ -20,24 +20,24 @@
   
     
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Example Content II | Bowen’s Digital Lab</title>
+<title>Via Alpine | Bowen’s Digital Lab</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Example Content II" />
+<meta property="og:title" content="Via Alpine" />
 <meta name="author" content="Bowen Wang" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="A page showing how regular markdown content is styled in Hydejack." />
-<meta property="og:description" content="A page showing how regular markdown content is styled in Hydejack." />
-<link rel="canonical" href="https://bowwang.dev/example/example-content-2/" />
-<meta property="og:url" content="https://bowwang.dev/example/example-content-2/" />
+<meta name="description" content="2023 New Year Resolution!" />
+<meta property="og:description" content="2023 New Year Resolution!" />
+<link rel="canonical" href="https://bowwang.dev/hiking/via-alpine.md" />
+<meta property="og:url" content="https://bowwang.dev/hiking/via-alpine.md" />
 <meta property="og:site_name" content="Bowen’s Digital Lab" />
-<meta property="og:image" content="https://bowwang.dev/assets/img/blog/example-content-ii.jpg" />
+<meta property="og:image" content="https://bowwang.dev/assets/img/hiking/via-alpine-title.jpg" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-11-23T00:00:00+01:00" />
+<meta property="article:published_time" content="2023-02-18T00:00:00+01:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://bowwang.dev/assets/img/blog/example-content-ii.jpg" />
-<meta property="twitter:title" content="Example Content II" />
+<meta property="twitter:image" content="https://bowwang.dev/assets/img/hiking/via-alpine-title.jpg" />
+<meta property="twitter:title" content="Via Alpine" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bowen Wang"},"dateModified":"2017-11-23T00:00:00+01:00","datePublished":"2017-11-23T00:00:00+01:00","description":"A page showing how regular markdown content is styled in Hydejack.","headline":"Example Content II","image":"https://bowwang.dev/assets/img/blog/example-content-ii.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"https://bowwang.dev/example/example-content-2/"},"url":"https://bowwang.dev/example/example-content-2/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bowen Wang"},"dateModified":"2023-02-18T00:00:00+01:00","datePublished":"2023-02-18T00:00:00+01:00","description":"2023 New Year Resolution!","headline":"Via Alpine","image":"https://bowwang.dev/assets/img/hiking/via-alpine-title.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"https://bowwang.dev/hiking/via-alpine.md"},"url":"https://bowwang.dev/hiking/via-alpine.md"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -65,7 +65,7 @@
 <meta name="generator" content="Hydejack v9.1.6" />
 
 
-<link rel="alternate" href="https://bowwang.dev/example/example-content-2/" hreflang="en">
+<link rel="alternate" href="https://bowwang.dev/hiking/via-alpine.md" hreflang="en">
 
 <link type="application/atom+xml" rel="alternate" href="https://bowwang.dev/feed.xml" title="Bowen&apos;s Digital Lab" />
 
@@ -189,14 +189,14 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
           <span>/</span>
           
           
-          <a href="/example/">example</a>
+          <a href="/hiking/">hiking</a>
         
       </li>
     
       <li>
         
           <span>/</span>
-          <span>example-content-2</span>
+          <span>via-alpine.md</span>
         
       </li>
     
@@ -213,21 +213,19 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 
 
 
-<article id="post-example-example-content-ii" class="page post mb6" role="article">
+<article id="post-hiking-via-alpine" class="page post mb6" role="article">
   <header>
     <h1 class="post-title flip-project-title">
       
-        Example Content II
+        Via Alpine
       
     </h1>
 
     <div class="post-date">
       
       <span class="ellipsis mr1">
-        <time datetime="2017-11-23T00:00:00+01:00">23 Nov 2017</time> in <a href="/example" class="flip-title">Example</a> 
+        <time datetime="2023-02-18T00:00:00+01:00">18 Feb 2023</time> in <a href="/hiking/" class="flip-title">Hiking</a> on <span>Travel</span>
       </span>
-      
-        
       
     </div>
 
@@ -240,9 +238,9 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 
 <img
   
-    src="/assets/img/blog/example-content-ii.jpg"
+    src="/assets/img/hiking/via-alpine-title.jpg"
   
-  alt="Example Content II"
+  alt="Via Alpine"
   
   
   width="864"
@@ -261,7 +259,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 
   
     <p class="note-sm" >
-      A page showing how regular markdown content is styled in Hydejack.
+      2023 New Year Resolution!
 
     </p>
   
@@ -270,190 +268,11 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
   </header>
 
   
-    <p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
-
-<p>There should be whitespace between paragraphs.</p>
-
-<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
-
-<p><a href="another-page">Link to another page</a>.</p>
-
-<ul class="large-only" id="markdown-toc">
-  <li><a href="#header-2" id="markdown-toc-header-2">Header 2</a>    <ul>
-      <li><a href="#header-3" id="markdown-toc-header-3">Header 3</a>        <ul>
-          <li><a href="#header-4" id="markdown-toc-header-4">Header 4</a>            <ul>
-              <li><a href="#header-5" id="markdown-toc-header-5">Header 5</a>                <ul>
-                  <li><a href="#header-6" id="markdown-toc-header-6">Header 6</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li><a href="#theres-a-horizontal-rule-below-this" id="markdown-toc-theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</a></li>
-      <li><a href="#here-is-an-unordered-list" id="markdown-toc-here-is-an-unordered-list">Here is an unordered list:</a></li>
-      <li><a href="#and-an-ordered-list" id="markdown-toc-and-an-ordered-list">And an ordered list:</a></li>
-      <li><a href="#and-a-nested-list" id="markdown-toc-and-a-nested-list">And a nested list:</a></li>
-      <li><a href="#small-image" id="markdown-toc-small-image">Small image</a></li>
-      <li><a href="#large-image" id="markdown-toc-large-image">Large image</a></li>
-      <li><a href="#definition-lists" id="markdown-toc-definition-lists">Definition lists</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="header-2">Header 2</h2>
-
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
-
-<h3 id="header-3">Header 3</h3>
-
-<blockquote>
-  <p>This is a blockquote following a header.</p>
-
-  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+    <blockquote>
+  <p>Planning in progress…</p>
 </blockquote>
 
-<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
-  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
-<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
-  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-<span class="k">end</span>
-</code></pre></div></div>
-
-<h4 id="header-4">Header 4</h4>
-
-<ul>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-</ul>
-
-<h5 id="header-5">Header 5</h5>
-
-<ol>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-</ol>
-
-<h6 id="header-6">Header 6</h6>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">head1</th>
-      <th style="text-align: left">head two</th>
-      <th style="text-align: left">three</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good swedish fish</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">out of stock</td>
-      <td style="text-align: left">good and plenty</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
-      <td style="text-align: left">hmm</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
-      <td style="text-align: left">yumm</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
-
-<hr />
-
-<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
-
-<ul>
-  <li>Item foo</li>
-  <li>Item bar</li>
-  <li>Item baz</li>
-  <li>Item zip</li>
-</ul>
-
-<h3 id="and-an-ordered-list">And an ordered list:</h3>
-
-<ol>
-  <li>Item one</li>
-  <li>Item two</li>
-  <li>Item three</li>
-  <li>Item four</li>
-</ol>
-
-<h3 id="and-a-nested-list">And a nested list:</h3>
-
-<ul>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item
-        <ul>
-          <li>level 3 item</li>
-          <li>level 3 item</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item</li>
-</ul>
-
-<h3 id="small-image">Small image</h3>
-
-<p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt="" /></p>
-
-<h3 id="large-image">Large image</h3>
-
-<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="" /></p>
-
-<h3 id="definition-lists">Definition lists</h3>
-
-<dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-</dl>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
-</code></pre></div></div>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
-</code></pre></div></div>
+<h2 id="stage-1">Stage 1</h2>
 
   
 </article>
@@ -477,7 +296,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
     
 
 
-  <aside class="other-projects related mb0" role="complementary">  <h2>Related Posts</h2>  <div class="columns">          <div class="column column-1-2">                  <article class="project-card">  <a href="/travel/switzerland.md" class="no-hover no-print-link flip-project" tabindex="-1">    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">              <img      src="/assets/img/travel/switzerland-title.jpg"    alt="Switzerland"      width="864"  height="486"  loading="lazy"/>          </div>  </a>  <h3 class="project-card-title flip-project-title">    <a href="/travel/switzerland.md" class="flip-title">Switzerland</a>  </h3>      <p class="project-card-text fine" property="disambiguatingDescription">      My favorite country in Europe!    </p>      <a class="fill-card no-hover" href="/travel/switzerland.md" tabindex="-1"><span class="sr-only">Continue reading Switzerland</span></a></article>              </div>          <div class="column column-1-2">                  <article class="project-card">  <a href="/hiking/via-alpine.md" class="no-hover no-print-link flip-project" tabindex="-1">    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">              <img      src="/assets/img/hiking/via-alpine-title.jpg"    alt="Via Alpine"      width="864"  height="486"  loading="lazy"/>          </div>  </a>  <h3 class="project-card-title flip-project-title">    <a href="/hiking/via-alpine.md" class="flip-title">Via Alpine</a>  </h3>      <p class="project-card-text fine" property="disambiguatingDescription">      2023 New Year Resolution!    </p>      <a class="fill-card no-hover" href="/hiking/via-alpine.md" tabindex="-1"><span class="sr-only">Continue reading Via Alpine</span></a></article>              </div>      </div></aside>
+  <aside class="other-projects related mb0" role="complementary">  <h2>Related Posts</h2>  <div class="columns">          <div class="column column-1-2">                  <article class="project-card">  <a href="/travel/switzerland.md" class="no-hover no-print-link flip-project" tabindex="-1">    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">              <img      src="/assets/img/travel/switzerland-title.jpg"    alt="Switzerland"      width="864"  height="486"  loading="lazy"/>          </div>  </a>  <h3 class="project-card-title flip-project-title">    <a href="/travel/switzerland.md" class="flip-title">Switzerland</a>  </h3>      <p class="project-card-text fine" property="disambiguatingDescription">      My favorite country in Europe!    </p>      <a class="fill-card no-hover" href="/travel/switzerland.md" tabindex="-1"><span class="sr-only">Continue reading Switzerland</span></a></article>              </div>      </div></aside>
 
   
 
